@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.my-style {
+  background-color: #9DC08B; color: #E1EEDD;
+  padding-left: 570px;
+  padding-right: 2opx;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 5px;
+}
+.parent {background-color: #B46060
+width: 100%;
+height: 300px;
+
+}
